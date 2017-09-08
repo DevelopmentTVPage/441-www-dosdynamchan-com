@@ -1,7 +1,15 @@
 {
+    "advertising": {
+        "enabled": false,
+        "adServerUrl": null,
+        "adTimeout": 2000,
+        "maxAds": 100,
+        "adInterval": 0
+    },
+    "preload": false,
     "type": "carousel",
     "title": "Carousel",
     "name": "carousel",
-    "channelId": "",
+    "channelId": "117020389",
     "layout": "bootstrap"
 }
