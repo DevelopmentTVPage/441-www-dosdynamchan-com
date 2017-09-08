@@ -8,7 +8,7 @@
     },
     "preload": false,
     "type": "carousel",
-    "title": "Carousel",
+    "title": "Carousel No Optimization Female ON",
     "name": "carousel",
     "channelId": "117020389",
     "layout": "bootstrap"
