@@ -1,0 +1,13 @@
+#Hugo configuration
+title = "Dynamic Channel Test Widgets"
+baseURL = "https:\/\/www.dosdynamchan.com"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+enableRobotsTXT = true
+
+[params]
+loginId = "1759031"
+subfolder = ""
+firstpartycookies = true
+cookiedomain = "dosdynamchan.com"
